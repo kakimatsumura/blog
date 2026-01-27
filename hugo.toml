@@ -1,0 +1,27 @@
+baseURL = 'https://kakimatsumura.net/blog/'
+languageCode = 'ja-JP'
+title = "all of them against the backdrop of summer's luscious green"
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 1000000
+
+[params]
+  copyright = "Kaki Matsumura"
+  
+  # Disable dark mode
+  defaultTheme = "light"
+  disableThemeToggle = true
+  
+  # Disable summaries and metadata
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  disableSpecial1stPost = true
+  hideSummary = true
+  hideAuthor = true
+
