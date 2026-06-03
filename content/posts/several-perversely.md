@@ -1,6 +1,6 @@
 +++
 title = '三度みだれて'
-date = 2026-02-07T02:30:00-08:00
+date = 2024-03-01T02:30:00-08:00
 draft = false
 description = """あられもない匂い、舌触り、感覚に満ち溢れた、ある街の一スケッチ"""
 slug = "several-perversely"
