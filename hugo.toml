@@ -12,13 +12,13 @@ summaryLength = 20
     posts = '/:slug/'
 
 [author]
-  name = "kakimatsu"
+  name = "kakimatsu / 柿松"
 
 [pagination]
   pagerSize = 1000000
 
 [params]
-  copyright = "kakimatsu"
+  copyright = "kakimatsu / 柿松"
   
   # Disable dark mode
   defaultTheme = "light"
